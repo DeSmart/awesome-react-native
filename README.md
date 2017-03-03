@@ -8,3 +8,6 @@
 
 ### Contacts / address book
 - [rt2zz/react-native-contacts](https://github.com/rt2zz/react-native-contacts)
+
+### Navigation / routing
+- [react-community/react-navigation](https://reactnavigation.org/)
