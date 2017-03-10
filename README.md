@@ -11,3 +11,7 @@
 
 ### Navigation / routing
 - [react-community/react-navigation](https://reactnavigation.org/)
+
+### Keyboard
+- [APSL/react-native-keyboard-aware-scroll-view](https://github.com/APSL/react-native-keyboard-aware-scroll-view)
+- [How to make your React Native app respond gracefully when the keyboard pops up](https://medium.freecodecamp.com/how-to-make-your-react-native-app-respond-gracefully-when-the-keyboard-pops-up-7442c1535580#.3xmbakql2)
