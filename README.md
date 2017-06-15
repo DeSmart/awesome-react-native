@@ -22,6 +22,9 @@
 ### UI toolkits
 - [Shoutem](http://shoutem.github.io/docs/ui-toolkit/introduction)
 
+### Fonts
+- [How to setup custom fonts](https://medium.com/react-native-training/react-native-custom-fonts-ccc9aacf9e5e)
+
 ### Helpers
 - [iOS device uuid](http://whatsmyudid.com/)
 - [guide to iPhone resolutions](https://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions)
