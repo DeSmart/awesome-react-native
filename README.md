@@ -2,6 +2,7 @@
 
 > list of awesome, bulletproof [components](#components) and other [resources](#resources) related to React Native ecosystem.
 
+## Components
 
 ### Camera / gallery
 - [ivpusic/react-native-image-crop-picker](https://github.com/ivpusic/react-native-image-crop-picker)
@@ -28,3 +29,6 @@
 ### Helpers
 - [iOS device uuid](http://whatsmyudid.com/)
 - [guide to iPhone resolutions](https://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions)
+
+## Resources
+- [React Native FAQ](https://www.netguru.co/blog/react-native-faq)
