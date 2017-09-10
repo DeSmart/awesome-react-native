@@ -12,6 +12,7 @@
 
 ### Navigation / routing
 - [react-community/react-navigation](https://reactnavigation.org/)
+- [wix/react-native-navigation](https://github.com/wix/react-native-navigation)
 
 ### Collapsable
 - [oblador/react-native-collapsible](https://github.com/oblador/react-native-collapsible)
@@ -32,6 +33,11 @@
 ### Helpers
 - [iOS device uuid](http://whatsmyudid.com/)
 - [guide to iPhone resolutions](https://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions)
+- [wix/interactable](https://github.com/wix/react-native-interactable)
 
-## Resources
+### Resources
 - [React Native FAQ](https://www.netguru.co/blog/react-native-faq)
+
+### Testing
+- [Detox - E2E tool](https://github.com/wix/detox)
+- 
