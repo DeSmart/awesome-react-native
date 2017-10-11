@@ -30,10 +30,12 @@
 ### Fonts
 - [How to setup custom fonts](https://medium.com/react-native-training/react-native-custom-fonts-ccc9aacf9e5e)
 
-### Helpers
+## Help, tricks, issues
 - [iOS device uuid](http://whatsmyudid.com/)
 - [guide to iPhone resolutions](https://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions)
 - [wix/interactable](https://github.com/wix/react-native-interactable)
+- [react-native-debugger](https://github.com/jhen0409/react-native-debugger)
+- [react-native-navigation white / black screen on android](https://github.com/wix/react-native-navigation/issues/334)
 
 ### Resources
 - [React Native FAQ](https://www.netguru.co/blog/react-native-faq)
