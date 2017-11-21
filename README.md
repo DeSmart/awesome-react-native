@@ -36,6 +36,7 @@
 - [wix/interactable](https://github.com/wix/react-native-interactable)
 - [react-native-debugger](https://github.com/jhen0409/react-native-debugger)
 - [react-native-navigation white / black screen on android](https://github.com/wix/react-native-navigation/issues/334)
+- [react-native-rename](https://github.com/JuneDomingo/react-native-rename)
 
 ### Resources
 - [React Native FAQ](https://www.netguru.co/blog/react-native-faq)
