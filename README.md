@@ -31,6 +31,7 @@
 - [How to setup custom fonts](https://medium.com/react-native-training/react-native-custom-fonts-ccc9aacf9e5e)
 
 ## Help, tricks, issues
+- [react-native-checklist](https://github.com/harrisrobin/react-native-checklist)
 - [iOS device uuid](http://whatsmyudid.com/)
 - [guide to iPhone resolutions](https://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions)
 - [wix/interactable](https://github.com/wix/react-native-interactable)
