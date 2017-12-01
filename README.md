@@ -38,6 +38,14 @@
 - [react-native-debugger](https://github.com/jhen0409/react-native-debugger)
 - [react-native-navigation white / black screen on android](https://github.com/wix/react-native-navigation/issues/334)
 - [react-native-rename](https://github.com/JuneDomingo/react-native-rename)
+- [Upload images](https://github.com/g6ling/React-Native-Tips/tree/master/How_to_upload_photo%2Cfile_in%20react-native)
+
+### Debug iOS on device
+``` js
+npm install -g ios-deploy
+# Run on a connected device, e.g. Max's iPhone:
+react-native run-ios --device "Max's iPhone"
+```
 
 ### Resources
 - [React Native FAQ](https://www.netguru.co/blog/react-native-faq)
