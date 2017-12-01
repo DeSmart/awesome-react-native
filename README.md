@@ -41,7 +41,7 @@
 - [Upload images](https://github.com/g6ling/React-Native-Tips/tree/master/How_to_upload_photo%2Cfile_in%20react-native)
 
 ### Debug iOS on device
-``` js
+``` sh
 npm install -g ios-deploy
 # Run on a connected device, e.g. Max's iPhone:
 react-native run-ios --device "Max's iPhone"
