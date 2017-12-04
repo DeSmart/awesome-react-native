@@ -39,6 +39,7 @@
 - [react-native-navigation white / black screen on android](https://github.com/wix/react-native-navigation/issues/334)
 - [react-native-rename](https://github.com/JuneDomingo/react-native-rename)
 - [Upload images](https://github.com/g6ling/React-Native-Tips/tree/master/How_to_upload_photo%2Cfile_in%20react-native)
+- [generator-rn-toolbox](https://github.com/bamlab/generator-rn-toolbox)
 
 ### Debug iOS on device
 ``` sh
