@@ -29,6 +29,7 @@
 
 ### Fonts
 - [How to setup custom fonts](https://medium.com/react-native-training/react-native-custom-fonts-ccc9aacf9e5e)
+- [react-native-typography](https://github.com/hectahertz/react-native-typography)
 
 ## Help, tricks, issues
 - [react-native-checklist](https://github.com/harrisrobin/react-native-checklist)
