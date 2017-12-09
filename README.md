@@ -6,6 +6,7 @@
 
 ### List
 - [react-native-swipeable](https://github.com/jshanson7/react-native-swipeable)
+- [react-native-swipeout](https://github.com/dancormier/react-native-swipeout)
 
 ### Camera / gallery
 - [ivpusic/react-native-image-crop-picker](https://github.com/ivpusic/react-native-image-crop-picker)
