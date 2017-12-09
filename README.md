@@ -4,6 +4,9 @@
 
 ## Components
 
+### List
+- [react-native-swipeable](https://github.com/jshanson7/react-native-swipeable)
+
 ### Camera / gallery
 - [ivpusic/react-native-image-crop-picker](https://github.com/ivpusic/react-native-image-crop-picker)
 
