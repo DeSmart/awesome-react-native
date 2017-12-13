@@ -28,6 +28,10 @@
 ### Notifications
 - [wix/react-native-notifications](https://github.com/wix/react-native-notifications)
 
+### Communications
+- [react-native-safari-view](https://github.com/naoufal/react-native-safari-view)
+- [react-native-communications](https://github.com/anarchicknight/react-native-communications/)
+
 ### UI toolkits
 - [Shoutem](http://shoutem.github.io/docs/ui-toolkit/introduction)
 
@@ -58,5 +62,4 @@ react-native run-ios --device "Max's iPhone"
 - [React Native FAQ](https://www.netguru.co/blog/react-native-faq)
 
 ### Testing
-- [Detox - E2E tool](https://github.com/wix/detox)
-- 
+- [Detox - E2E tool](https://github.com/wix/detox) 
