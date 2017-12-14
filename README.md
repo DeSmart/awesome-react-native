@@ -11,6 +11,9 @@
 ### Camera / gallery
 - [ivpusic/react-native-image-crop-picker](https://github.com/ivpusic/react-native-image-crop-picker)
 
+### Images
+- [react-native-fast-image](https://github.com/DylanVann/react-native-fast-image)
+
 ### Contacts / address book
 - [rt2zz/react-native-contacts](https://github.com/rt2zz/react-native-contacts)
 
