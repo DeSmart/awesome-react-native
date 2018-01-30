@@ -49,6 +49,7 @@
 - [wix/interactable](https://github.com/wix/react-native-interactable)
 - [react-native-debugger](https://github.com/jhen0409/react-native-debugger)
 - [react-native-navigation white / black screen on android](https://github.com/wix/react-native-navigation/issues/334)
+- [react-navigation - StackNavigator inside DrawerNavigator](https://github.com/react-navigation/react-navigation/issues/834)
 - [react-native-rename](https://github.com/JuneDomingo/react-native-rename)
 - [Upload images](https://github.com/g6ling/React-Native-Tips/tree/master/How_to_upload_photo%2Cfile_in%20react-native)
 - [generator-rn-toolbox](https://github.com/bamlab/generator-rn-toolbox)
