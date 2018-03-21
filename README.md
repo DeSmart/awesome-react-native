@@ -4,6 +4,9 @@
 
 ## Components
 
+### Onboarding
+- [react-native-tips](https://github.com/frichti/react-native-tips)
+
 ### List
 - [react-native-swipeable](https://github.com/jshanson7/react-native-swipeable)
 - [react-native-swipeout](https://github.com/dancormier/react-native-swipeout)
