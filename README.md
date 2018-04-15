@@ -45,6 +45,9 @@
 - [How to setup custom fonts](https://medium.com/react-native-training/react-native-custom-fonts-ccc9aacf9e5e)
 - [react-native-typography](https://github.com/hectahertz/react-native-typography)
 
+### Settings
+- [react-native-app-settings](https://github.com/KrazyLabs/react-native-app-settings)
+
 ## Help, tricks, issues
 - [react-native-checklist](https://github.com/harrisrobin/react-native-checklist)
 - [iOS device uuid](http://whatsmyudid.com/)
